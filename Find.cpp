@@ -2,7 +2,7 @@
 #include <iostream>
 #include <ctime>
 using namespace std;
-
+// 二分查找
 //返回该元素在数组中的位置，找不到返回-1
 int LineFindval(int num[], int len, int v){
     for (int i = 0; i < len; i++){
